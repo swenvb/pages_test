@@ -1,0 +1,6 @@
+remote_theme: pmarsceill/just-the-docs
+
+# Site settings
+title: Pages test
+
+liquid:
